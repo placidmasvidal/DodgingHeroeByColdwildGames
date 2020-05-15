@@ -4,17 +4,136 @@ size: 2048,2048
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-grassground
+attack
   rotate: false
-  xy: 2, 229
+  xy: 1188, 1451
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+base
+  rotate: false
+  xy: 247, 259
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+bat
+  rotate: false
+  xy: 2, 38
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 229, 265
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ghost
+  rotate: false
+  xy: 1188, 1433
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 2, 283
   size: 1184, 1184
   orig: 1184, 1184
   offset: 0, 0
   index: -1
-rockground
+ground
+  rotate: false
+  xy: 1206, 1451
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+health
+  rotate: false
+  xy: 229, 231
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 2, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+skeleton
+  rotate: false
+  xy: 20, 38
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+slime
+  rotate: false
+  xy: 229, 247
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+sound0
+  rotate: false
+  xy: 247, 265
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+sound1
+  rotate: false
+  xy: 1188, 1415
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+sound2
+  rotate: false
+  xy: 1206, 1433
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+sound3
+  rotate: false
+  xy: 1224, 1451
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+spider
   rotate: false
   xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+stone
+  rotate: false
+  xy: 2, 56
   size: 225, 225
   orig: 225, 225
+  offset: 0, 0
+  index: -1
+wall
+  rotate: false
+  xy: 20, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+warning
+  rotate: false
+  xy: 38, 38
+  size: 16, 16
+  orig: 16, 16
   offset: 0, 0
   index: -1
